@@ -1,15 +1,23 @@
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=neowguk&show_icons=true&theme=buefy&hide="/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=neowguk&show_icons=true&theme=buefy&hide="/>
 
-  ### 🐶 NeowGuk GITHUB 🐶 
+ ### 🐶 NeowGuk GITHUB 🐶 
 
- <a href="https://github.com/neowguk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneowguk&count_bg=%23000000&title_bg=%2000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/tkagh6a7ab"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkagh6a7ab"/></a><br>
+<a href="https://github.com/neowguk"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneowguk&count_bg=%23000000&title_bg=%2000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/tkagh6a7ab"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkagh6a7ab"/></a><br>
 
-<div align="left">
-    <div style="font-weight: bold; font-size: 14px; color: #c9d1d9;"> 📊 I mainly focus on data analysis </div> 
-  </div>
+<div align="center">
+
+  ### My introduce😀
+
+<div align="center">
+  
+<sub>📊 I mainly focus on data analysis. </sub> <br />
+
 <br />
+</div>
+</div>
+
  
  ---
 

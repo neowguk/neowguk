@@ -8,13 +8,13 @@
 <div>
   <!--Body-->
 
-  ##  Tech Stack
+  #  Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <br/>
 
-  ## Github Stats
+  # Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neowguk&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
